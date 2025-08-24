@@ -1,1 +1,3 @@
-# Student_Performance_Analysis
+# Student Performance Analysis
+
+This project involves analyzing a student performance dataset using Python, Pandas, Matplotlib, and Seaborn to uncover insights into academic outcomes. The process begins with loading and inspecting the dataset, followed by data cleaning steps such as removing unnecessary columns and handling missing values by filling numerical columns with the median and categorical columns with the mode. Visualizations are then created to explore relationships between various factors—such as gender, study hours, attendance rate, parental support, extracurricular activities, and previous grades—and their impact on final grades. The analysis includes pie charts, box plots, scatter plots, histograms, and a correlation heatmap, all aimed at identifying trends and patterns that influence student performance.
